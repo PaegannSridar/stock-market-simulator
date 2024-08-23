@@ -19,5 +19,5 @@ The stocks are sold if the short-term moving average is less than the long-term 
 Also, if the stock price falls by 2% or gains 4%, the stock is sold.
 
 
-**The stocks performance over the past year**
+**The performance over the past year (the account value is in tens of millions):**
 ![output.jpg](output.jpg)
