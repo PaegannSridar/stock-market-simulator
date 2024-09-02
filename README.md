@@ -20,4 +20,4 @@ Also, if the stock price falls by 2% or gains 4%, the stock is sold.
 
 
 **The performance over the past year (the account value is in millions):**
-![output.png](output.png)
+![output.jpg](output.jpg)
