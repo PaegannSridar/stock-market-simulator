@@ -15,9 +15,9 @@ If the short-term moving average is greater than the long-term moving average th
 
 **To sell the stocks:**
 
-The stocks are sold if the short-term moving average is less than the long-term moving average. 
+The stocks are sold if the short-ter moving average is less than the long-term moving average. 
 Also, if the stock price falls by 2% or gains 4%, the stock is sold.
 
 
-**The performance over the past year (the account value is in tens of millions):**
-![output.jpg](output.jpg)
+**The performance over the past year (the account value is in millions):**
+![output.png](output.png)
